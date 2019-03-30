@@ -1,5 +1,6 @@
 body {
     color: white;
     background-color: black;
-    font-family: "Ink Free", "Century Gothic", sans-serif;
+    font-family: "Comic Sans MS", "Ink Free", "Century Gothic", sans-serif;
+    background-image: linear-gradient(to bottom right, grey, black, black, black, black, black);
 }
